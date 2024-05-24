@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="20%" width="20%"> <img src="https://octodex.github.com/images/steroidtocat.png" height="20%" width="20%"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="20%" width="20%"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="20%" width="20%"></p>
+
+
 <h1 align="center">Hi 👋, I'm Zain Javed</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 
